@@ -1,0 +1,82 @@
+#table1 {
+  border-collapse: separate; /* Separate cells to allow for gaps */
+  border-spacing: 2px; /* Adds gaps between the table cells */
+  margin-top: 10px;
+  text-align: center;
+  position: relative; 
+  width: 100%;
+}
+#table2 {
+  border-collapse: separate; /* Separate cells to allow for gaps */
+  border-spacing: 2px; /* Adds gaps between the table cells */
+  margin-top: 10px;
+  text-align: center;
+  position: relative; 
+  width: 90%;
+}
+.center-text {
+  text-align: center;
+}
+
+
+th, td {
+  border: 2px solid black; /* Thick borders for all table cells */
+  padding: 10px;
+  text-align: center;
+  font-size: 1rem;
+}
+
+
+/* Alkali metals (group 1) */
+.alkali {
+    background-color: #ff9999; /* Light red */
+    color: black;
+  }
+  
+  /* Alkaline earth metals (group 2) */
+  .alkaline-earth {
+    background-color:#DAA520; /* Light orange */
+    color: black;
+  }
+  
+  /* Halogens (group 17) */
+  .halogen {
+    background-color: #66ccff; /* Light blue */
+    color: black;
+  }
+  
+  /* Noble gases (group 18) */
+  .noble-gas {
+    background-color: #7B68EE; /* Light purple */
+    color: black;
+  }
+  
+  /* Transition metals */
+  .transition-metal {
+    background-color: #FFD700; /* Light yellow */
+    color: black;
+  }
+  
+  /* Lanthanides */
+  .lanthanide {
+    background-color: #FFB6C1; /* Light violet */
+    color: black;
+  }
+  
+  /* Actinides */
+  .actinide {
+    background-color: #DA70D6; /* Light pink */
+    color: black;
+  }
+
+  .brown {
+    background-color: #A0522D; /* Light pink */
+    color: black;
+  }
+  
+  .green {
+    background-color: #2E8B57; /* Light pink */
+    color: black;
+  }
+  
+  

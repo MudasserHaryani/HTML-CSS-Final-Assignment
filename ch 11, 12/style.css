@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+    
+}
+body{
+    width: 794px;
+   
+    border: 1px solid black;
+    display: flex-column;
+   justify-content: center;
+   align-items: center;
+   
+    margin: 10px auto;
+}
+section {
+    width: auto;
+    height: 1120;
+    background-color: white;
+}
+.date-section{
+    display: flex;
+    margin: 30px;
+}
+.date-section-div{
+    width: 50%;
+}
+h1{
+    margin: 30px 0 20px 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+.second-heading {
+    margin: 20px 50px 20px 50px;
+    text-shadow: -2px 3px 6px rgba(0,0,0,0.6);
+}
+
+p{
+    margin: 20px 50px 20px 50px;
+    line-height: 30px;
+    text-align: justify;
+    
+}
+ ul{
+    margin: 20px 50px 20px 80px;
+    line-height: 30px;
+ }
+  
+ .courses {
+    font-family: 'Roboto', sans-serif; 
+    font-weight: bold;
+    margin: 30px 0 20px 50px; 
+ }
+ .courses span {
+    font-size: 30px;
+ }
+ .ameen-alam {
+    display: flex;
+    justify-content: center;
+ }
+ .ameen-alam span {
+    color: purple;
+    text-decoration: underline;
+ }
+ footer div {
+    display: flex;
+    justify-content: space-between;
+    font-size: 10px;
+    align-items: end;
+    margin: 0 20px;
+ }
+
+ .footer-2-page{
+    margin-top: 500px;
+ }
